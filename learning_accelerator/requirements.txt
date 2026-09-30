@@ -1,0 +1,9 @@
+streamlit>=1.42.0
+pyrebase4
+firebase-admin
+groq
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+numpy
